@@ -1,0 +1,16 @@
+name: "Capacita-R"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Funciones"
+      href: funciones.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    

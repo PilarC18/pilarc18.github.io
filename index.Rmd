@@ -1,0 +1,17 @@
+---
+title: "Aprendo algebra"
+---
+
+*Algebra*
+
+
+Trinomio cuadrado perfecto
+
+```{r}
+binomiocuadrado= function(a,b){
+  a^2+2*a*b+b^2
+}
+
+binomiocuadrado(1,2)
+```
+
